@@ -14,7 +14,10 @@ Analyze boutique sales data to uncover:
 1. **Python** – Loaded and cleaned CSV data (`load_csv.py`)  
 2. **MySQL** – Created schema (`setup.sql`) and ran queries (`analysis.sql`)  
 3. **Tableau** – Built dashboards from query exports  
-4. **Excel** – Quick checks and formatting  
+4. **Excel** – Quick checks and formatting
+
+# Dashboard Preview
+![Sales Dashboard](dashboards/dashboard.png)
 
 
 ## Key Insights
@@ -27,7 +30,8 @@ Analyze boutique sales data to uncover:
 ## Recommendations
 - Prioritize **Jackets** and **Tops** for inventory & marketing  
 - Improve marketing or re-price **Skirts** to boost profitability  
-- Strengthen presence in **high-revenue regions** (Africa, Australia, Europe)  
+- Strengthen presence in **high-revenue regions** (Africa, Australia, Europe)
+
 
 ## Confidentiality
 This project is based on real freelance work. Client and store details are withheld for privacy. 
