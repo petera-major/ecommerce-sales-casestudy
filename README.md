@@ -10,7 +10,7 @@ Analyze boutique sales data to uncover:
 - Seasonal performance trends
 - Profitability comparisons between product categories  
 
-## ⚙Tools & Workflow
+## Tools & Workflow
 1. **Python** – Loaded and cleaned CSV data (`load_csv.py`)  
 2. **MySQL** – Created schema (`setup.sql`) and ran queries (`analysis.sql`)  
 3. **Tableau** – Built dashboards from query exports  
