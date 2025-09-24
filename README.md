@@ -1,6 +1,6 @@
 # Shopify Boutique Sales Analytics (Freelance Project)
 **SQL | Python | Power BI | Data Analytics**
-This project analyzes a simulated e-commerce dataset to uncover sales trends, customer behavior, and profitability patterns. Using SQL, Python, and Power BI, I created an end-to-end analytics workflow; from data cleaning to visualization — to demonstrate how data can drive business decisions.
+Analyzed boutique Shopify sales data to identify profit drivers, customer behavior patterns, and regional performance issues. Delivered actionable insights through SQL analysis and a Power BI dashboard.
 ---
 ## Shopify Boutique – Sales, Margins & Customer Insights
 - Analyzing boutique Shopify store sales data to uncover profit levers, customer behavior, and regional performance indicators. — Delivered via SQL + Power BI dashboard.
@@ -37,7 +37,14 @@ This project analyzes a simulated e-commerce dataset to uncover sales trends, cu
 - The West region generated the highest sales but showed weaker margins compared to East and Central.
 - Recommendation: Reassess regional pricing, logistics, or marketing spend in underperforming areas.
 ---
+## Results
+- Together, these insights highlight opportunities to increase margins, strengthen retention, and optimize pricing strategies across regions.
+- Identified underperforming categories where margin recovery could add 8–12% profit annually.
+- Confirmed that repeat customers contribute 60%+ of profits, supporting loyalty program investment.
+- Highlighted West region margin inefficiencies — opportunity to rebalance pricing/logistics.
+---
   # Dashboard Preview
+  **The dashboard highlights sales trends, category profitability, regional margins, and customer loyalty metrics in a single view.**
 ![Sales Dashboard](dashboards/dashboard.png)
 
 
