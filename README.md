@@ -1,36 +1,43 @@
 # Shopify Boutique Sales Analytics (Freelance Project)
+**SQL | Python | Power BI | Data Analytics**
+This project analyzes a simulated e-commerce dataset to uncover sales trends, customer behavior, and profitability patterns. Using SQL, Python, and Power BI, I created an end-to-end analytics workflow; from data cleaning to visualization — to demonstrate how data can drive business decisions.
 
 **Type:** Freelance Case Study (Confidential Client, International Shopify Boutique)  
-**Tech Stack:** Python, MySQL, Tableau, Excel  
 
-## Objective
-Analyze boutique sales data to uncover:
-- Top products driving revenue
-- Regional revenue distribution
-- Seasonal performance trends
-- Profitability comparisons between product categories  
-
+---
+## Project Objectives
+- Identify top-performing products and categories by revenue and profit.
+- Analyze regional performance to detect areas of high sales but low margins.
+- Examine the impact of discounts on sales vs profitability.
+- Segment customers by loyalty and evaluate their contribution to profit.
+- Deliver a dashboard that highlights actionable insights for business stakeholders.
+---
 ## Tools & Workflow
-1. **Python** – Loaded and cleaned CSV data (`load_csv.py`)  
-2. **MySQL** – Created schema (`setup.sql`) and ran queries (`analysis.sql`)  
-3. **Tableau** – Built dashboards from query exports  
-4. **Excel** – Quick checks and formatting
+1. Python (pandas, numpy) → Cleaned & reshaped raw data for SQL import.
+2. MySQL → Designed schema, ran advanced queries (sales trends, top customers, discount analysis).
+3. Power BI → Built dashboards with sales, profit, and regional insights.
+4. Excel → Quick validation & pivot table checks.
 
-# Dashboard Preview
+---
+## Key Insights & Business Recommendations
+- **Product Performance**
+- Top-selling products drove most of the revenue, but some categories had low or negative profit margins.
+- Recommendation: Prioritize high-margin products in marketing and inventory decisions.
+
+- **Discounting Strategy**
+- High discounts boosted sales volume but significantly reduced profitability.
+- Recommendation: Refine discount policies — focus on targeted or seasonal discounts to protect margins.
+
+- **Customer Behavior**
+- Repeat customers contributed over 60% of profits, despite being fewer in number.
+- Recommendation: Launch loyalty programs and personalized marketing to retain this valuable segment.
+
+- **Regional Trends**
+- The West region generated the highest sales but showed weaker margins compared to East and Central.
+- Recommendation: Reassess regional pricing, logistics, or marketing spend in underperforming areas.
+---
+  # Dashboard Preview
 ![Sales Dashboard](dashboards/dashboard.png)
-
-
-## Key Insights
-- **Top Regions by Revenue:** Africa, Australia, Europe, North America, South America, Asia  
-- **Top Product (Seasonal):** Jackets generated the highest revenue in Spring  
-- **Most Profitable Product Overall:** Tops had the best balance of unit price and total revenue  
-- **Lowest Performer:** Skirts consistently underperformed  
-
-
-## Recommendations
-- Prioritize **Jackets** and **Tops** for inventory & marketing  
-- Improve marketing or re-price **Skirts** to boost profitability  
-- Strengthen presence in **high-revenue regions** (Africa, Australia, Europe)
 
 
 ## Confidentiality
