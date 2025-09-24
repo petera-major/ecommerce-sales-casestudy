@@ -2,8 +2,8 @@
 **SQL | Python | Power BI | Data Analytics**
 This project analyzes a simulated e-commerce dataset to uncover sales trends, customer behavior, and profitability patterns. Using SQL, Python, and Power BI, I created an end-to-end analytics workflow; from data cleaning to visualization — to demonstrate how data can drive business decisions.
 
-**Type:** Freelance Case Study (Confidential Client, International Shopify Boutique)  
-
+## Shopify Boutique – Sales, Margins & Customer Insights
+**Analyzing boutique Shopify store sales data to uncover profit levers, customer behavior, and regional performance indicators. — Delivered via SQL + Power BI dashboard.**
 ---
 ## Project Objectives
 - Identify top-performing products and categories by revenue and profit.
