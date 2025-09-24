@@ -20,19 +20,20 @@ This project analyzes a simulated e-commerce dataset to uncover sales trends, cu
 
 ---
 ## Key Insights & Business Recommendations
-- **Product Performance**
+
+**Product Performance**
 - Top-selling products drove most of the revenue, but some categories had low or negative profit margins.
 - Recommendation: Prioritize high-margin products in marketing and inventory decisions.
 
-- **Discounting Strategy**
+**Discounting Strategy**
 - High discounts boosted sales volume but significantly reduced profitability.
 - Recommendation: Refine discount policies — focus on targeted or seasonal discounts to protect margins.
 
-- **Customer Behavior**
+**Customer Behavior**
 - Repeat customers contributed over 60% of profits, despite being fewer in number.
 - Recommendation: Launch loyalty programs and personalized marketing to retain this valuable segment.
 
-- **Regional Trends**
+**Regional Trends**
 - The West region generated the highest sales but showed weaker margins compared to East and Central.
 - Recommendation: Reassess regional pricing, logistics, or marketing spend in underperforming areas.
 ---
